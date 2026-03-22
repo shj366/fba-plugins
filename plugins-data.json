@@ -40,6 +40,25 @@
     {
       "plugin": {
         "icon": "https://wu-clan.github.io/picx-images-hosting/logo/fba.svg",
+        "summary": "AI Console",
+        "version": "0.0.1",
+        "description": "为系统提供 AI 对话、供应商、模型和 MCP 管理能力",
+        "author": "wu-clan",
+        "tags": [
+          "ai",
+          "mcp",
+          "agent"
+        ]
+      },
+      "git": {
+        "path": "plugins/ai_ui",
+        "url": "https://github.com/fastapi-practices/ai_ui.git",
+        "branch": "master"
+      }
+    },
+    {
+      "plugin": {
+        "icon": "https://wu-clan.github.io/picx-images-hosting/logo/fba.svg",
         "summary": "API Key",
         "version": "0.0.1",
         "description": "用户自定义 API Key 管理，支持生成、管理和使用 API Key 进行接口认证",

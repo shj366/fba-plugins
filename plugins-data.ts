@@ -42,13 +42,14 @@ export const pluginDataList: PluginData[] = [
   {
     "plugin": {
       "icon": "https://wu-clan.github.io/picx-images-hosting/logo/fba.svg",
-      "summary": "AI 工具",
-      "version": "0.0.1",
+      "summary": "AI",
+      "version": "0.0.2",
       "description": "为系统提供 AI 赋能",
       "author": "wu-clan",
       "tags": [
         "ai",
-        "mcp"
+        "mcp",
+        "agent"
       ],
       "database": [
         "mysql",

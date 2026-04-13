@@ -43,7 +43,7 @@ export const pluginDataList: PluginData[] = [
     "plugin": {
       "icon": "https://wu-clan.github.io/picx-images-hosting/logo/fba.svg",
       "summary": "AI",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "为系统提供 AI 赋能",
       "author": "wu-clan",
       "tags": [
@@ -65,9 +65,9 @@ export const pluginDataList: PluginData[] = [
   {
     "plugin": {
       "icon": "https://wu-clan.github.io/picx-images-hosting/logo/fba.svg",
-      "summary": "AI Console",
-      "version": "0.0.1",
-      "description": "为系统提供 AI 对话、供应商、模型和 MCP 管理能力",
+      "summary": "AI UI",
+      "version": "0.1.0",
+      "description": "为系统提供 AI 对话、话题历史、快捷短语、供应商、模型和 MCP 管理能力",
       "author": "wu-clan",
       "tags": [
         "ai",
